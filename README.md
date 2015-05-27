@@ -28,7 +28,7 @@ It contains:
 
 ### Build and Run
 
-For Windows users, use the _MinGW_ to build:
+For Windows users, use the **MinGW** to build:
 
 ```{.sh}
 mkdir build
@@ -46,10 +46,12 @@ cmake ..
 make
 ```
 
-Then, execute the rendering along with the model.txt file at the same path.
+Then, run the execute along with the model.txt file at the same path.
 
 ### Reference
 
 [http://en.wikipedia.org/wiki/Ray_tracing_(graphics)](http://en.wikipedia.org/wiki/Ray_tracing_(graphics))
+
 [http://en.wikipedia.org/wiki/Distributed_ray_tracing](http://en.wikipedia.org/wiki/Distributed_ray_tracing)
+
 [http://en.wikipedia.org/wiki/Phong_reflection_model](http://en.wikipedia.org/wiki/Phong_reflection_model)
